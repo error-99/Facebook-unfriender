@@ -5,9 +5,6 @@ Here's a **professional README file** for your Facebook Unfriend Tool:
 
 A powerful browser console tool to automatically or manually unfriend multiple Facebook friends with a user-friendly interface.
 
-![Version](https://img.shields.io/badge/version-2.0-blue)
-![Platform](https://img.shields.io/badge/platform-Facebook%20Web-orange)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 ---
 
@@ -77,7 +74,7 @@ A powerful browser console tool to automatically or manually unfriend multiple F
 
 ### Step 1: Navigate to Facebook Friends Page
 ```
-https://www.facebook.com/your-profile/friends
+(https://www.facebook.com/friends/list)
 ```
 
 ### Step 2: Open Browser Console
